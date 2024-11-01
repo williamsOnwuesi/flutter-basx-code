@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748087381030",
+    "project_id": "gold-gt-project",
+    "storage_bucket": "gold-gt-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748087381030:android:d0cdf9f5a1e2a499bfeae7",
+        "android_client_info": {
+          "package_name": "com.example.gt_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfWIOB0YlBhv2TunTTEIFqYp5sr2witI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748087381030:android:977afa17148423c5bfeae7",
+        "android_client_info": {
+          "package_name": "com.example.gt_bank_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfWIOB0YlBhv2TunTTEIFqYp5sr2witI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
